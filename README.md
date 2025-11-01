@@ -137,13 +137,14 @@ python3 latihan3.py
 Hasil Screenshot
 
 📸 Screenshot latihan1.py
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9e26d19d-a0e5-4b27-9ddc-2f37838f58df" />
+<img width="1366" height="768" alt="hasil latihan1" src="https://github.com/user-attachments/assets/c754308b-b486-4747-a300-3d63b7c8322d" />
 
 📸 Screenshot latihan2.py
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7b520b6a-c4ef-4a22-9f68-b905fb691c60" />
+<img width="1366" height="768" alt="hasil latihan2" src="https://github.com/user-attachments/assets/7a14fd69-f078-4255-bb1e-54ff6142d82d" />
 
 📸 Screenshot latihan3.py
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bb5151b6-4c20-4b1f-9c54-c0e029e4aecd" />
+<img width="1366" height="768" alt="hasil latihan3" src="https://github.com/user-attachments/assets/2e3d94e6-9474-4bdb-8df0-d7543899b965" />
+
 
 ---
 
