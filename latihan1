@@ -1,0 +1,14 @@
+# latihan1.py
+from random import random
+
+# Meminta input nilai N saat runtime
+n = int(input("Masukkan nilai N: "))
+
+i = 0
+while i < n:
+    a = random()  # menghasilkan angka acak antara 0 dan 1
+    if a < 0.5:   # hanya tampilkan jika < 0.5
+        print(f"data ke: {i+1} => {a}")
+        i += 1
+
+print("Selesai")
